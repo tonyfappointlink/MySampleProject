@@ -54,5 +54,8 @@
   <ItemGroup>
     <Folder Include="My Project\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="TextFile1.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
